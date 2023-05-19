@@ -1,0 +1,11 @@
+.element-A {
+    background-color: black;
+    color: white;
+}
+.element-B {
+    background-color: yellow;
+}
+.element-A, .element-B {
+    font-size: 28px;
+    font-family: Helvetica,'Times New Romans', sans-serif;
+}
